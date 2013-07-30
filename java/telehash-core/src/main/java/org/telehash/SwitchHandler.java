@@ -34,7 +34,6 @@ import com.google.common.base.Predicate;
 import com.google.common.collect.Collections2;
 import com.google.common.collect.Iterables;
 import com.google.common.collect.Lists;
-
 public class SwitchHandler extends IoHandlerAdapter {
 
 	static private Logger logger = LoggerFactory.getLogger(SwitchHandler.class);
